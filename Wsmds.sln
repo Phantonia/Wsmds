@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phantonia.Wsmds", "Phantonia.Wsmds\Phantonia.Wsmds.csproj", "{D0797972-BB12-4489-84ED-106E8D72CA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phantonia.Probability", "Phantonia.Probability\Phantonia.Probability.csproj", "{872FD286-10FA-43F9-A106-F48DA64316D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0797972-BB12-4489-84ED-106E8D72CA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0797972-BB12-4489-84ED-106E8D72CA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0797972-BB12-4489-84ED-106E8D72CA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0797972-BB12-4489-84ED-106E8D72CA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872FD286-10FA-43F9-A106-F48DA64316D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872FD286-10FA-43F9-A106-F48DA64316D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872FD286-10FA-43F9-A106-F48DA64316D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872FD286-10FA-43F9-A106-F48DA64316D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B09DFBAE-4380-4173-90EC-7B3F1E6EB2B3}
+	EndGlobalSection
+EndGlobal
